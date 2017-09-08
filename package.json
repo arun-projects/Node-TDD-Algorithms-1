@@ -1,0 +1,23 @@
+{
+  "name": "node_tdd_algorithms_1",
+  "version": "1.0.0",
+  "description": "Algorithms in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha modules_spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun-projects/Node-TDD-Algorithms-1.git"
+  },
+  "author": "Arun Sood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun-projects/Node-TDD-Algorithms-1/issues"
+  },
+  "homepage": "https://github.com/arun-projects/Node-TDD-Algorithms-1#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
